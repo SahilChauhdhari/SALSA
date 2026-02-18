@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SALSA/static/css/main.a416f479.css",
+    "main.js": "/SALSA/static/js/main.6f302ce3.js",
+    "static/js/453.20359781.chunk.js": "/SALSA/static/js/453.20359781.chunk.js",
+    "index.html": "/SALSA/index.html",
+    "main.a416f479.css.map": "/SALSA/static/css/main.a416f479.css.map",
+    "main.6f302ce3.js.map": "/SALSA/static/js/main.6f302ce3.js.map",
+    "453.20359781.chunk.js.map": "/SALSA/static/js/453.20359781.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a416f479.css",
+    "static/js/main.6f302ce3.js"
+  ]
+}
